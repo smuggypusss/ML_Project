@@ -14,3 +14,7 @@
 '''''
     venv\Scipts\activte.bat
 '''''
+# Commit these changes to the repository
+git add .
+# Push these commits to the repository
+git push origin main
